@@ -26,7 +26,8 @@ html {
 
 
 body{
-	background:url(../images/pattern2.png) repeat ;
+	/* background:url(../images/pattern2.png) repeat ; */
+	background-color:#3E3F38;
 	font:100% Arial,'Signika';
 	line-height:20px;
 	font-weight:normal;
